@@ -1,0 +1,19 @@
+2025-07-18 14:59:49,661 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées depuis: http://export.arxiv.org/api/query?id_list=1706.03762
+2025-07-18 14:59:50,024 - downloaders.arxiv_downloader - INFO - Métadonnées récupérées pour 1706.03762: Attention Is All You Need
+2025-07-18 15:03:00,041 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées depuis: http://export.arxiv.org/api/query?id_list=1706.03762
+2025-07-18 15:03:00,240 - downloaders.arxiv_downloader - INFO - Métadonnées récupérées pour 1706.03762: Attention Is All You Need
+2025-07-18 15:05:13,562 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées depuis: http://export.arxiv.org/api/query?id_list=1706.03762
+2025-07-18 15:05:13,906 - downloaders.arxiv_downloader - INFO - Métadonnées récupérées pour 1706.03762: Attention Is All You Need
+2025-07-18 15:05:13,913 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées depuis: http://export.arxiv.org/api/query?id_list=9999.99999
+2025-07-18 15:05:14,290 - downloaders.arxiv_downloader - INFO - Métadonnées récupérées pour 9999.99999: Sans titre
+2025-07-18 15:14:48,040 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées depuis: http://export.arxiv.org/api/query?id_list=1706.03762
+2025-07-18 15:14:48,322 - downloaders.arxiv_downloader - INFO - Métadonnées récupérées pour 1706.03762: Attention Is All You Need
+2025-07-18 15:14:48,327 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées pour https://arxiv.org/abs/1706.03762
+2025-07-18 15:14:48,328 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées depuis: http://export.arxiv.org/api/query?id_list=1706.03762
+2025-07-18 15:14:48,420 - downloaders.arxiv_downloader - INFO - Métadonnées récupérées pour 1706.03762: Attention Is All You Need
+2025-07-18 15:14:48,421 - downloaders.arxiv_downloader - INFO - URL PDF: https://arxiv.org/pdf/1706.03762.pdf
+2025-07-18 15:14:48,421 - downloaders.arxiv_downloader - INFO - Tentative 1/4 pour https://arxiv.org/pdf/1706.03762.pdf
+2025-07-18 15:14:49,030 - downloaders.arxiv_downloader - INFO - Téléchargement réussi: 2215244 bytes
+2025-07-18 15:14:49,032 - downloaders.arxiv_downloader - INFO - Fichier sauvegardé: downloads\Attention Is All You Need.pdf
+2025-07-18 15:14:49,035 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées depuis: http://export.arxiv.org/api/query?id_list=9999.99999
+2025-07-18 15:14:49,200 - downloaders.arxiv_downloader - INFO - Métadonnées récupérées pour 9999.99999: Sans titre

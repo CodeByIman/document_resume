@@ -1,0 +1,11 @@
+# Dépendances requises pour document_processor
+requests>=2.25.1
+beautifulsoup4>=4.9.3
+lxml>=4.6.3
+feedparser>=6.0.8
+
+# Dépendances optionnelles pour des fonctionnalités étendues
+# pandas>=1.3.0  # Pour traitement des données
+# numpy>=1.21.0  # Pour calculs numériques
+# matplotlib>=3.4.0  # Pour visualisations
+# Pillow>=8.3.0  # Pour traitement d'images

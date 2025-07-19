@@ -17,3 +17,57 @@
 2025-07-18 15:14:49,032 - downloaders.arxiv_downloader - INFO - Fichier sauvegardé: downloads\Attention Is All You Need.pdf
 2025-07-18 15:14:49,035 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées depuis: http://export.arxiv.org/api/query?id_list=9999.99999
 2025-07-18 15:14:49,200 - downloaders.arxiv_downloader - INFO - Métadonnées récupérées pour 9999.99999: Sans titre
+2025-07-19 10:09:11,894 - extractors.pdf_extractor - INFO - Tentative d'extraction avec la méthode 1
+2025-07-19 10:09:15,517 - extractors.pdf_extractor - INFO - Extraction réussie avec _extract_with_pdfminer
+2025-07-19 10:09:15,519 - root - ERROR - Erreur extraction PDF downloads\Attention Is All You Need.pdf: 'success'
+Traceback (most recent call last):
+  File "D:\pfa\document_processor\main.py", line 242, in extract_existing_pdfs
+    if not extraction_result['success']:
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+KeyError: 'success'
+2025-07-19 10:11:23,508 - extractors.pdf_extractor - INFO - Tentative d'extraction avec la méthode 1
+2025-07-19 10:11:27,369 - extractors.pdf_extractor - INFO - Extraction réussie avec _extract_with_pdfminer
+2025-07-19 10:12:56,834 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées depuis: http://export.arxiv.org/api/query?id_list=2507.12530
+2025-07-19 10:12:57,520 - downloaders.arxiv_downloader - INFO - Métadonnées récupérées pour 2507.12530: Reconstruction of Dark Matter and Baryon Density From Galaxies: A   Comparison of Linear, Halo Model and Machine Learning-Based Methods
+2025-07-19 10:12:57,527 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées pour https://arxiv.org/pdf/2507.12530
+2025-07-19 10:12:57,528 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées depuis: http://export.arxiv.org/api/query?id_list=2507.12530
+2025-07-19 10:12:57,668 - downloaders.arxiv_downloader - INFO - Métadonnées récupérées pour 2507.12530: Reconstruction of Dark Matter and Baryon Density From Galaxies: A   Comparison of Linear, Halo Model and Machine Learning-Based Methods
+2025-07-19 10:12:57,670 - downloaders.arxiv_downloader - INFO - URL PDF: https://arxiv.org/pdf/2507.12530.pdf
+2025-07-19 10:12:57,672 - downloaders.arxiv_downloader - INFO - Tentative 1/4 pour https://arxiv.org/pdf/2507.12530.pdf
+2025-07-19 10:12:58,845 - downloaders.arxiv_downloader - INFO - Téléchargement réussi: 5020823 bytes
+2025-07-19 10:12:58,848 - downloaders.arxiv_downloader - INFO - Fichier sauvegardé: downloads\Reconstruction of Dark Matter and Baryon Density From Galaxies_ A   Comparison of Linear, Halo Model.pdf
+2025-07-19 10:12:58,851 - extractors.pdf_extractor - INFO - Tentative d'extraction avec la méthode 1
+2025-07-19 10:13:05,331 - extractors.pdf_extractor - INFO - Extraction réussie avec _extract_with_pdfminer
+2025-07-19 15:52:30,876 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées depuis: http://export.arxiv.org/api/query?id_list=2507.13341
+2025-07-19 15:52:31,365 - downloaders.arxiv_downloader - INFO - Métadonnées récupérées pour 2507.13341: $\texttt{raccoon}$: A Python package for removing wiggle artifacts in   the JWST NIRSpec integral field spectroscopy
+2025-07-19 15:52:31,370 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées pour https://arxiv.org/pdf/2507.13341
+2025-07-19 15:52:31,371 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées depuis: http://export.arxiv.org/api/query?id_list=2507.13341
+2025-07-19 15:52:31,428 - downloaders.arxiv_downloader - INFO - Métadonnées récupérées pour 2507.13341: $\texttt{raccoon}$: A Python package for removing wiggle artifacts in   the JWST NIRSpec integral field spectroscopy
+2025-07-19 15:52:31,429 - downloaders.arxiv_downloader - INFO - URL PDF: https://arxiv.org/pdf/2507.13341.pdf
+2025-07-19 15:52:31,429 - downloaders.arxiv_downloader - INFO - Tentative 1/4 pour https://arxiv.org/pdf/2507.13341.pdf
+2025-07-19 15:52:32,274 - downloaders.arxiv_downloader - INFO - Téléchargement réussi: 814499 bytes
+2025-07-19 15:52:32,275 - downloaders.arxiv_downloader - INFO - Fichier sauvegardé: downloads\$_texttt{raccoon}$_ A Python package for removing wiggle artifacts in   the JWST NIRSpec integral fi.pdf
+2025-07-19 15:52:32,277 - extractors.pdf_extractor - INFO - Tentative d'extraction avec la méthode 1
+2025-07-19 15:52:32,583 - extractors.pdf_extractor - INFO - Extraction réussie avec _extract_with_pdfminer
+2025-07-19 16:01:45,290 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées depuis: http://export.arxiv.org/api/query?id_list=2507.13033
+2025-07-19 16:01:45,696 - downloaders.arxiv_downloader - INFO - Métadonnées récupérées pour 2507.13033: (Exhaustive) Symbolic Regression and model selection by minimum   description length
+2025-07-19 16:01:45,701 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées pour https://arxiv.org/pdf/2507.13033
+2025-07-19 16:01:45,702 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées depuis: http://export.arxiv.org/api/query?id_list=2507.13033
+2025-07-19 16:01:45,757 - downloaders.arxiv_downloader - INFO - Métadonnées récupérées pour 2507.13033: (Exhaustive) Symbolic Regression and model selection by minimum   description length
+2025-07-19 16:01:45,757 - downloaders.arxiv_downloader - INFO - URL PDF: https://arxiv.org/pdf/2507.13033.pdf
+2025-07-19 16:01:45,758 - downloaders.arxiv_downloader - INFO - Tentative 1/4 pour https://arxiv.org/pdf/2507.13033.pdf
+2025-07-19 16:01:46,201 - downloaders.arxiv_downloader - INFO - Téléchargement réussi: 998022 bytes
+2025-07-19 16:01:46,202 - downloaders.arxiv_downloader - INFO - Fichier sauvegardé: downloads\(Exhaustive) Symbolic Regression and model selection by minimum   description length.pdf
+2025-07-19 16:01:46,204 - extractors.pdf_extractor - INFO - Tentative d'extraction avec la méthode 1
+2025-07-19 16:01:50,580 - extractors.pdf_extractor - INFO - Extraction réussie avec _extract_with_pdfminer
+2025-07-19 16:06:06,242 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées depuis: http://export.arxiv.org/api/query?id_list=2507.13033
+2025-07-19 16:06:06,418 - downloaders.arxiv_downloader - INFO - Métadonnées récupérées pour 2507.13033: (Exhaustive) Symbolic Regression and model selection by minimum   description length
+2025-07-19 16:06:06,419 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées pour https://arxiv.org/pdf/2507.13033
+2025-07-19 16:06:06,420 - downloaders.arxiv_downloader - INFO - Récupération des métadonnées depuis: http://export.arxiv.org/api/query?id_list=2507.13033
+2025-07-19 16:06:06,474 - downloaders.arxiv_downloader - INFO - Métadonnées récupérées pour 2507.13033: (Exhaustive) Symbolic Regression and model selection by minimum   description length
+2025-07-19 16:06:06,478 - downloaders.arxiv_downloader - INFO - URL PDF: https://arxiv.org/pdf/2507.13033.pdf
+2025-07-19 16:06:06,480 - downloaders.arxiv_downloader - INFO - Tentative 1/4 pour https://arxiv.org/pdf/2507.13033.pdf
+2025-07-19 16:06:06,815 - downloaders.arxiv_downloader - INFO - Téléchargement réussi: 998022 bytes
+2025-07-19 16:06:06,816 - downloaders.arxiv_downloader - INFO - Fichier sauvegardé: downloads\(Exhaustive) Symbolic Regression and model selection by minimum   description length.pdf
+2025-07-19 16:06:06,818 - extractors.pdf_extractor - INFO - Tentative d'extraction avec la méthode 1
+2025-07-19 16:06:10,900 - extractors.pdf_extractor - INFO - Extraction réussie avec _extract_with_pdfminer

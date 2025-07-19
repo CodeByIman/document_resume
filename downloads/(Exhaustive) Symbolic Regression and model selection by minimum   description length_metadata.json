@@ -1,0 +1,56 @@
+{
+  "arxiv_metadata": {
+    "arxiv_id": "2507.13033",
+    "source": "arxiv",
+    "original_url": "https://arxiv.org/pdf/2507.13033",
+    "title": "(Exhaustive) Symbolic Regression and model selection by minimum   description length",
+    "abstract": "Symbolic regression is the machine learning method for learning functions from data. After a brief overview of the symbolic regression landscape, I will describe the two main challenges that traditional algorithms face: they have an unknown (and likely significant) probability of failing to find any given good function, and they suffer from ambiguity and poorly-justified assumptions in their function-selection procedure. To address these I propose an exhaustive search and model selection by the minimum description length principle, which allows accuracy and complexity to be directly traded off by measuring each in units of information. I showcase the resulting publicly available Exhaustive Symbolic Regression algorithm on three open problems in astrophysics: the expansion history of the universe, the effective behaviour of gravity in galaxies and the potential of the inflaton field. In each case the algorithm identifies many functions superior to the literature standards. This general purpose methodology should find widespread utility in science and beyond.",
+    "authors": [
+      "Harry Desmond"
+    ],
+    "published_date": "2025-07-17T12:04:15Z",
+    "updated_date": "2025-07-17T12:04:15Z",
+    "categories": [
+      "astro-ph.IM",
+      "astro-ph.CO",
+      "astro-ph.GA",
+      "cs.LG"
+    ],
+    "primary_category": "astro-ph.IM",
+    "links": {
+      "alternate": "http://arxiv.org/abs/2507.13033v1",
+      "related": "http://arxiv.org/pdf/2507.13033v1"
+    }
+  },
+  "extraction_info": {
+    "method_used": "_extract_with_pdfminer",
+    "pages_processed": 16,
+    "text_stats": {
+      "characters": 53671,
+      "words": 8353,
+      "sentences": 627,
+      "paragraphs": 1,
+      "lines": 197
+    },
+    "abstract_found": false,
+    "summary_generated": false,
+    "keywords_found": 2,
+    "sections_found": [
+      "main",
+      "methodology",
+      "introduction",
+      "conclusion",
+      "references",
+      "results"
+    ]
+  },
+  "files_generated": {
+    "cleaned": "downloads\\(Exhaustive) Symbolic Regression and model selection by minimum   description length_cleaned.txt",
+    "sections": "downloads\\(Exhaustive) Symbolic Regression and model selection by minimum   description length_sections.txt"
+  },
+  "summary_info": {
+    "generated": false,
+    "length": 0,
+    "source": null
+  }
+}
